@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil-1e9&show_icons=true&theme=transparent)
+
 <!--
 **nikhil-1e9/nikhil-1e9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
