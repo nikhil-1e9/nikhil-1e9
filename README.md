@@ -1,4 +1,7 @@
-<!-- https://www.profileme.dev/ -->
+<!-- https://www.profileme.dev/ 
+https://god-level-python.notion.site/How-to-create-your-stunning-GitHub-profile-c6cac0ac6d20484dbf7d8f82ab2e2108
+https://god-level-python.notion.site/Git-GitHub-Course-Make-Recruiters-reach-You-Build-your-stunning-profile-First-open-source-cont-439867a44e724488a590436a164f8dff
+-->
 
 ## Hi there 👋
 
