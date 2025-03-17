@@ -5,7 +5,7 @@ https://god-level-python.notion.site/Git-GitHub-Course-Make-Recruiters-reach-You
 
 ## Hi there 👋
 
-<!-- Replace the following placeholders with your own information and content -->
+Replace the following placeholders with your own information and content
 
 <!-- Add your name and a background image 
 <div align="center">
